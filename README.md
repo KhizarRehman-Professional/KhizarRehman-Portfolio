@@ -2,7 +2,7 @@
 
 Personal portfolio website showcasing projects, skills, and experience in AI, software engineering, and web development.
 
-🔗 **Live Site:** [https://khizarrehman-professional.github.io/khizarrehman-portfolio/](https://khizarrehman-professional.github.io/khizarrehman-portfolio/)
+🔗 **Live Site:** [https://khizarrehman-professional.github.io/KhizarRehman-Portfolio/](https://khizarrehman-professional.github.io/KhizarRehman-Portfolio/)
 
 ---
 
